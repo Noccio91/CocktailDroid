@@ -9,5 +9,7 @@ public class Process extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.proc);
+        
+        String noccio = "rules the nations";
 	}
 }
