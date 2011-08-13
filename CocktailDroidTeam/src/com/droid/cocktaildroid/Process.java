@@ -11,5 +11,6 @@ public class Process extends Activity {
         setContentView(R.layout.proc);
         
         String noccio = "rules the nations";
+        String Pera = "e la volta buona ?!?";
 	}
 }
