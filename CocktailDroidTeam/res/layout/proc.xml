@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TableLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/procTableLayout"
+		android:layout_marginLeft="27dp"
+		android:layout_marginRight="27dp">
+		<TableRow
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/nameRow"
+			android:layout_marginTop="10dp">
+			<TextView
+				android:id="@+id/nameTextView"
+				android:textAppearance="?android:attr/textAppearanceLarge"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/sexonthebeach"></TextView>
+		</TableRow>
+		<TableRow
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/ingRow">
+			<TextView
+				android:id="@+id/ingTextRow"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="TextView"
+				android:layout_marginTop="10dp"></TextView>
+		</TableRow>
+		<TableRow
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/procRow"
+			android:layout_marginTop="10dp">
+			<TextView
+				android:id="@+id/procTextView"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/proc_sexonthebeach"></TextView>
+		</TableRow>
+	</TableLayout>
+
+</RelativeLayout>

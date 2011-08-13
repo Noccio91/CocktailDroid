@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/MainGroup">
+        <item android:id="@+id/cocktailList" android:title="Lista Cocktail"></item>
+        <item android:id="@+id/randomCocktail" android:title="Cocktail Casuale"></item>
+        <item android:id="@+id/findByIng" android:title="Cerca per Ingrediente"></item>
+        <item android:id="@+id/credits" android:title="Credits"></item>
+    </group>
+    
+</menu>

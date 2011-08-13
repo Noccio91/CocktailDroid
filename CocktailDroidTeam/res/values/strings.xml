@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cocktail Droid</string>
+    <string name="sexonthebeach">Sex on the Beach</string>
+    <string name="ingredienti">Ingredienti</string>
+    <string name="procedimento">Procedimento</string>
+    <string name="proc_sexonthebeach">Si versano gli ingredienti in uno shaker. Si versa il cocktail in un bicchiere tipo Highball glass riempito di ghiaccio e si guarnisce con una fetta di arancia.</string>
+</resources>
