@@ -12,5 +12,7 @@ public class Process extends Activity {
         
         String noccio = "rules the nations";
         String Pera = "e la volta buona ?!?";
+        //io odio qst programma
+        int i =0;
 	}
 }
